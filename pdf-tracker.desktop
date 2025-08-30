@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=PDF Reading Tracker
+Comment=Track your daily PDF reading habits
+Exec=/home/sumeettt/tracker_v2/pdf_grid_gui.py
+Icon=accessories-document
+Terminal=false
+Type=Application
+Categories=Utility;Education;
+Keywords=PDF;Reading;Tracker;
+StartupNotify=true
+X-GNOME-Autostart-enabled=true

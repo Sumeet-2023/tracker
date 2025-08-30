@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=PDF Reading Tracker Daemon
+Comment=Background service for PDF reading tracking
+Exec=/home/sumeettt/tracker_v2/pdf_tracker.py
+Icon=accessories-document
+Terminal=false
+Type=Application
+Categories=Utility;
+X-GNOME-Autostart-enabled=true
+NoDisplay=true
+StartupNotify=false
